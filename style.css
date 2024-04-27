@@ -528,9 +528,7 @@ animation-delay: 0s;
 
 /*media querry*/
 @media screen and (max-width: 600px) {
-   
-    .search-input{
-        width:300px;
-        border: none;
-       
-    }
+body{
+    background-color: orange;
+}
+}
