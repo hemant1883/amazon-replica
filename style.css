@@ -527,7 +527,7 @@ animation-delay: 0s;
 /*transition ends*/
 
 /*media querry*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1500px) {
 .search-input{
         width:300px;
         border: none;
